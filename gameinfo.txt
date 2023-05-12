@@ -1,3 +1,4 @@
+// Powered by Voxbyte.io
 "GameInfo"
 {
 	game	"Counter-Strike: Global Offensive"
