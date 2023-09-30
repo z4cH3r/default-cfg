@@ -22,12 +22,13 @@
 			
 			Game    csgo/addons/metamod
 			Game	csgo
-			Game	csgo/base
+			Game    csgo/base
 			Game	csgo_imported
 			Game	csgo_core
-			Game	core
-
+			Game    core
+			
 			Mod		csgo
+            Mod     csgo/base
 			Mod		csgo_imported
 			Mod		csgo_core
 
@@ -223,3 +224,4 @@
 		} 
 	}
 }
+
