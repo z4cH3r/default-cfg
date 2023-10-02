@@ -1,0 +1,5 @@
+"Metamod Plugin"
+{
+	"alias"	"server_steam_account"
+	"file"	"addons/server_steam_account/bin/linuxsteamrt64/server_steam_account"
+}
